@@ -1,0 +1,48 @@
+Caso 1 – Teste básico
+Texto claro: TANK
+Chave: WAR
+
+
+Caso 2 – Texto maior que a chave
+Texto claro: BOMBERPLANE
+Chave: FIGHT
+
+
+Caso 3 – Chave maior que o texto
+Texto claro: PAN ZER
+Chave: STRATEGY
+ 
+
+Caso 4 – Texto com caracteres especiais
+Texto claro: SPITFIRE-1940!
+Chave: AIRFORCE
+
+
+Caso 5 – Texto e chave longos
+Texto claro: TIGERTANKANDMUSTANGAIRCRAFT
+Chave: SECONDWORLDWAR
+
+
+Como executar o programa Python
+
+1. Abra o terminal na pasta onde o arquivo `vigenere.py` está salvo.
+
+2. Execute o programa:
+   python3 vigenere.py
+
+3. Escolha a opção:
+   1 - Para cifrar (encriptar)
+   2 - Para decifrar (decriptar)
+
+4. Caso 1 a 5 (cifrar):
+   - Digite o "Texto claro" conforme o caso.
+   - Digite a "Chave" conforme o caso.
+   - Copie o resultado HEX mostrado pelo programa.
+
+5. Caso 1 a 5 (decifrar):
+   - Digite o texto cifrado em HEX (copiado na etapa anterior).
+   - Digite a "Chave" usada.
+   - O programa exibirá o texto decifrado, que deve ser igual ao "Texto claro" do teste.
+
+Observação:
+- Sempre utilize o formato HEX fornecido pelo programa para decifrar corretamente textos com caracteres não imprimíveis.

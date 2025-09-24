@@ -39,12 +39,14 @@ Como executar o programa Python
 4. Caso 1 a 5 (cifrar):
    - Digite o "Texto claro" conforme o caso.
    - Digite a "Chave" conforme o caso.
-   - Copie o resultado HEX mostrado pelo programa.
+   - Copie o resultado mostrado pelo programa.
 
 5. Caso 1 a 5 (decifrar):
-   - Digite o texto cifrado em HEX (copiado na etapa anterior).
+   - Digite o texto cifrado em (copiado na etapa anterior).
    - Digite a "Chave" usada.
    - O programa exibirá o texto decifrado, que deve ser igual ao "Texto claro" do teste.
 
 Observação:
-- Sempre utilize o formato HEX fornecido pelo programa para decifrar corretamente textos com caracteres não imprimíveis.
+- Sempre utilize o formato fornecido pelo programa para decifrar corretamente textos com caracteres não imprimíveis.
+
+OLAAAA
